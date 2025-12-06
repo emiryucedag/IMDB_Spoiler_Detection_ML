@@ -64,6 +64,9 @@ Our model achieved robust performance, significantly outperforming the random ba
 * **Robustness:** Regularization (L1/L2) and Early Stopping successfully prevented overfitting.
 
 ---
-
+## Graphs:
+<img width="984" height="583" alt="image" src="https://github.com/user-attachments/assets/1afd8fa7-9a96-4e18-88a6-8f6700889cfc" />
+<img width="3000" height="2400" alt="roc_curve" src="https://github.com/user-attachments/assets/6691e207-e72f-4b06-baf5-bc31503bbb01" />
+<img width="3600" height="2100" alt="metrics_summary" src="https://github.com/user-attachments/assets/adae6e27-5cb8-4be8-ab60-5e2b413cdc5a" />
 
 
